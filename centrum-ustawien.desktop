@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Centrum ustawień
+Name[pl]=Centrum ustawień
+Comment=Centrum ustawień oparte na aktywatorach .desktop
+Comment[pl]=Centrum ustawień oparte na aktywatorach .desktop
+Exec=centrum-ustawien
+Terminal=false
+Categories=Settings;DesktopSettings;
+StartupNotify=true
+Icon=preferences-desktop
