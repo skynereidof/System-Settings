@@ -10,7 +10,7 @@ Instalator programu wykorzystujący GNU Make.
 - introspekcja GTK 3 (`gir1.2-gtk-3.0`)
 - `GioUnix` dostępne przez PyGObject
 
-## Instalacja bez sudo
+## Instalacja
 
 W katalogu projektu:
 
